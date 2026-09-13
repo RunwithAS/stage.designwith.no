@@ -1,0 +1,3 @@
+# Interim domain, not for indexing.
+User-agent: *
+Disallow: /
