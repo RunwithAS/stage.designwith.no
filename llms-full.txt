@@ -1,0 +1,10 @@
+# Interim domain, not for indexing.
+#
+# This is the staging copy of designwith.no. The real site, and the real
+# llms.txt, is at https://designwith.no/llms.txt. Nothing here should be
+# indexed, quoted or cited: it exists so one person can look at a change before
+# it goes live, and it may contain copy that was never approved.
+#
+# Deliberately empty beyond this notice. robots.txt on this host disallows
+# everything, and shipping the whole site as plain text anyway would hand a
+# crawler the readable duplicate that the disallow exists to prevent.
